@@ -1,5 +1,5 @@
 ---
-title: Oooi
+title: OpenWebUI
 emoji: 📚
 colorFrom: yellow
 colorTo: blue
